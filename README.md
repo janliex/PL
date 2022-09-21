@@ -13,6 +13,6 @@
 1. [GitHub](https://github.com/) <br>
 2. [Anaconda](https://www.anaconda.com/products/distribution)
 ### Week 2 
-1.[0915](https://github.com/janliex/PL/blob/main/practice1.ipynb)
+1.  [0915practice](https://github.com/janliex/PL/blob/main/practice1.ipynb)
 ## 作業連結區
 ## 專題連結區
