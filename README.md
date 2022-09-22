@@ -13,6 +13,10 @@
 1. [GitHub](https://github.com/) <br>
 2. [Anaconda](https://www.anaconda.com/products/distribution)
 ### Week 2 
+- data type(int, float, str, bool)
+- if and else
+- input ,print
 1.  [0915practice](https://github.com/janliex/PL/blob/main/practice1.ipynb)
+### Week3
 ## 作業連結區
 ## 專題連結區
