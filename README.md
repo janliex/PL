@@ -18,5 +18,8 @@
 - input輸入, print輸出
 1.  [0915practice](https://github.com/janliex/PL/blob/main/practice1.ipynb)
 ### Week3
+- list使用(新增、刪除、修改）
+- tuple
+
 ## 作業連結區
 ## 專題連結區
