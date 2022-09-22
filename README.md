@@ -10,6 +10,7 @@
  * 綽號：傑尼
 ## 課程筆記區
 ### Week 1
+- download 
 1. [GitHub](https://github.com/) <br>
 2. [Anaconda](https://www.anaconda.com/products/distribution)
 ### Week 2 
