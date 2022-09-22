@@ -15,7 +15,7 @@
 ### Week 2 
 - data type(int, float, str, bool)
 - if and else
-- input ,print
+- input輸入, print輸出
 1.  [0915practice](https://github.com/janliex/PL/blob/main/practice1.ipynb)
 ### Week3
 ## 作業連結區
