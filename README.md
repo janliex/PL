@@ -16,8 +16,8 @@
 ### Week 2 
 - data type(int, float, str, bool)
 - if and else
-- input輸入, print輸出
-1.  [0915practice](https://github.com/janliex/PL/blob/main/practice1.ipynb)
+- input輸入, print輸出<br>
+   [0915practice](https://github.com/janliex/PL/blob/main/practice1.ipynb)
 ### Week3
 - list使用(新增、刪除、修改）
 - tuple
