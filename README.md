@@ -24,4 +24,5 @@
 
 ## 作業連結區
 - [HW1](https://github.com/janliex/PL/blob/main/HW1_folder/HW1.ipynb)
+  比較不同性別與喜歡的飲料種類
 ## 專題連結區
