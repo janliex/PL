@@ -26,4 +26,8 @@
   比較不同性別與喜歡的飲料種類
 - [HW2](https://github.com/janliex/PL/blob/main/HW2_folder/HW2.ipynb)
    查詢雙北各地人口密度＆排序
+- [HW3](https://github.com/janliex/PL/blob/main/HW3_folder/HW3.ipynb)
+   - csv (https://github.com/janliex/PL/blob/main/HW3_folder/food.csv)
+   - json (https://github.com/janliex/PL/blob/main/HW3_folder/food.json)
+   爬蟲-美食版 
 ## 專題連結區
