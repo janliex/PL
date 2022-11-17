@@ -5,3 +5,5 @@ rdquo
 1987
 gt
 00
+nan
+nbsp
