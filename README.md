@@ -28,6 +28,5 @@
    查詢雙北各地人口密度＆排序
 - [HW3](https://github.com/janliex/PL/blob/main/HW3_folder/HW3.ipynb)
    爬蟲-美食版 
-- [HW4](https://medium.com/@jenny.lee.91518/使用文字探勘分析臺南美食-74a499eed724)
-   Medium
+- [HW4](https://medium.com/@jenny.lee.91518/使用文字探勘分析臺南美食-74a499eed724) [Medium](https://medium.com/@jenny.lee.91518/使用文字探勘分析臺南美食-74a499eed724)
 ## 專題連結區
