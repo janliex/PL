@@ -30,4 +30,6 @@
    爬蟲-美食版 
 - [HW4](https://github.com/janliex/PL/blob/main/HW4_folder/HW04.ipynb) [Medium](https://medium.com/@jenny.lee.91518/使用文字探勘分析臺南美食-74a499eed724)
    使用文字探勘分析臺南美食
+- [](https://medium.com/@jenny.lee.91518/桃園景點熱點圖-python文本共現網路分析-c077c504f403)
+
 ## 專題連結區
